@@ -24,27 +24,27 @@ title:                'Change'
 tagline:              'Embrace change.'
 description:          'Change is a minimalist Jekyll theme <a href="https://madebyconnor.co/" target="_blank" rel="noopener noreferrer">Made by Connor</a>.'
 keywords:             'connor, baer, bear, designer, developer, traveller, design, code, jekyll, change, theme, for hire'
-url:                  https://madebyconnor.github.io
+url:                  https://danielamieva.github.io
 baseurl:              /change
 assets:               /assets
 images:               /images/
 image:                index-large.jpg
 logo:                 /assets/icons/apple-icon-144x144.png
-dark_theme:           false
+dark_theme:           true
 
 author:
-  name:               Connor Bär
-  bio:                Hi, I'm Connor, the author of this blog. Nice to meet you!
+  name:               Daniel Amieva
+  bio:                Hi, I'm Daniel, the author of this blog. Nice to meet you!
   image:              author
-  url:                https://connorbaer.co
-  email:              hello@connorbaer.co
-  twitter:            connor_baer
+  url:                https://danielamieva.github.io
+  email:              daniel@amieva.in
+  twitter:            daniel_amieva
 
 social:
-  twitter:            https://twitter.com/connor_baer
-  instagram:          https://instagram.com/connor_baer
-  github:             https://github.com/madebyconnor/change
-  medium:             https://blog.connorbaer.io
+  twitter:            https://twitter.com/daniel_amieva
+  instagram:          https://instagram.com/daniel_amieva
+  github:             https://github.com/danielamieva
+  medium:             https://
 
 version:              3.1.3
 
